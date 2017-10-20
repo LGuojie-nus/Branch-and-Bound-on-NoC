@@ -1,0 +1,143 @@
+
+Comm_vol=
+
+     0    30    19     0     0     0     0     0     0
+     0     0     0    21     0     0     0     0     0
+     0     0     0     8     0     0     0     0     0
+     0     0     0     0    42    17     0     0     0
+     0     0     0     0     0     0     0    16     0
+     0     0     0     0     0     0     0    24     0
+     0     0     0     0     0     0     0    15     0
+     0     0     0     0     0     0     0     0    25
+     0     0     0     0     0     0     0     0     0
+
+
+
+############################################
+
+>> bnb_implementation_6
+program ends!
+############################################
+############################################
+Running Report
+nt=9  n=4
+Symmetry Check level=2
+Insertion_Strategy=Off
+Manual_Termination=Off
+Best Mapping=217  217    6   11   10    5    9    7   13   15   12
+nodes visited 1942
+nodes pruned 1808
+running time 1.4153 sec
+############################################
+>> bnb_implementation_6
+program ends!
+############################################
+############################################
+Running Report
+nt=9  n=4
+Symmetry Check level=1
+Insertion_Strategy=Off
+Manual_Termination=Off
+Best Mapping=217  217    6   11   10    5    9    7   13   15   12
+nodes visited 2503
+nodes pruned 2294
+running time 1.594 sec
+############################################
+>> bnb_implementation_6
+program ends!
+############################################
+############################################
+Running Report
+nt=9  n=4
+Symmetry Check level=0
+Insertion_Strategy=Off
+Manual_Termination=Off
+Best Mapping=217  217    7   10   11    6    5   14    2    9   15
+nodes visited 12173
+nodes pruned 11156
+running time 7.5213 sec
+############################################
+
+
+
+
+comm_vol =
+
+     0    20     0     0     0     0     0     0     0
+     0     0    19     0     0     0     0     0     0
+     0     0     0    21     0     0     0     0     0
+     0     0     0     0    18    22    17    23     0
+     0     0     0     0     0     0     0     0    16
+     0     0     0     0     0     0     0     0    24
+     0     0     0     0     0     0     0     0    15
+     0     0     0     0     0     0     0     0    25
+     0     0     0     0     0     0     0     0     0
+
+
+############################################
+############################################
+Running Report
+Symmetry Check level=2
+Insertion_Strategy=On
+Best Mapping=286  304    5    9    6    8    2    1    3    7    4
+nodes visited 2442
+nodes pruned 1813
+running time 3.4034 sec
+############################################
+>> bnb_implementation_6
+ 
+s =
+ 
+s
+ 
+   Inf
+
+   288
+
+program ends!
+############################################
+############################################
+Running Report
+Symmetry Check level=2
+Insertion_Strategy=Off
+Best Mapping=286  286    5    9    8    6    4    1    7    3    2
+nodes visited 4065
+nodes pruned 3031
+running time 3.6405 sec
+
+
+comm_vol =
+
+     0    40    39     0     0     0     0     0     0
+     0     0     0    41     0     0     0     0     0
+     0     0     0    38     0     0     0     0     0
+     0     0     0     0    42    37    43    36     0
+     0     0     0     0     0     0     0     0    44
+     0     0     0     0     0     0     0     0    35
+     0     0     0     0     0     0     0     0    45
+     0     0     0     0     0     0     0     0    40
+     0     0     0     0     0     0     0     0     0
+
+program ends!
+############################################
+############################################
+Running Report
+Symmetry Check level=2
+Insertion_Strategy=Off
+Best Mapping=628  628    5    1    4    2    8    9    6    7    3
+nodes visited 6330
+nodes pruned 4684
+running time 5.714 sec
+############################################
+>> bnb_implementation_6
+program ends!
+############################################
+############################################
+Running Report
+Symmetry Check level=2
+Insertion_Strategy=On
+Best Mapping=628  628    5    1    4    2    8    9    6    7    3
+nodes visited 2798
+nodes pruned 2054
+running time 3.6489 sec
+############################################

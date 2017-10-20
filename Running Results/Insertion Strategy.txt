@@ -1,0 +1,37 @@
+
+comm_vol =
+
+     0    40    39    41     0     0     0     0     0
+     0     0     0     0     0    38    42     0     0
+     0     0     0     0    37     0     0     0     0
+     0     0     0     0    43    36    44    35     0
+     0     0     0     0     0     0     0     0    45
+     0     0     0     0     0     0     0     0    34
+     0     0     0     0     0     0     0     0    46
+     0     0     0     0     0     0     0     0    40
+     0     0     0     0     0     0     0     0     0
+
+
+############################################
+############################################
+Running Report
+Symmetry Check level=2
+Insertion_Strategy=On
+Best Mapping=760  760    5    3    4    6    8    7    1    9    2
+nodes visited 2872
+nodes pruned 2107
+running time 5.1003 sec
+############################################
+>> bnb_implementation_6
+ 
+
+program ends!
+############################################
+############################################
+Running Report
+Symmetry Check level=2
+Insertion_Strategy=Off
+Best Mapping=760  760    5    1    6    4    8    9    3    7    0
+nodes visited 9474
+nodes pruned 7193
+running time 8.389 sec

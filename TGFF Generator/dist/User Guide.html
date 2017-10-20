@@ -1,0 +1,88 @@
+<html>
+<head>
+<title>User Guide</title>
+</head>
+<body>
+<h2>User Guide </h2><br>
+<h3> Contents</h3><br>
+<ol>
+<li><a href="#rtgg">RTGG</a></li>
+<li><a href="#fft">FFT</a></li>
+<li><a href="#gauss">Gauss Elimination</a></li>
+<li><a href="#lud">LU Decomposition</a></li>
+<li><a href="#of">Output Format</a></li>
+<li><a href="#nt">Network Topologies</a></li>
+</ol>
+<br>
+<h3><a name="rtgg">Random task graph:</a></h3>
+<p>
+Number of nodes:Integer value above zero<br>
+Shape:Floating point value lesser than absolute(sqrt(number of nodes))/3)<br>
+Average Computation Cost(ACC):Integer value greater than one<br>
+Communication to Computation Ratio(CCR):Integer value greater than one<br>
+Number of processors: Integer value greater than zero<br>
+Heterogeneity Factor: Floating point value between 0.1 to 1
+</p>
+<h3><a name="fft">Fast Fourier Transformation: </a></h3>
+<p>
+Data Points:Integer value greater than zero(preferably powers of two,if not the code takes the nearest power of two)<br>
+Average Computation Cost(ACC):Integer value greater than one<br>
+Communication to Computation Ratio(CCR):Integer value greater than one<br>
+Number of processors: Integer value greater than zero<br>
+Heterogeneity Factor: Floating point value between 0.1 to 1
+</p>
+
+<h3><a name="gauss">Gaussian Elimination: </a></h3>
+<p>
+Number of nodes:Integer value greater than zero<br>
+Average Computation Cost(ACC):Integer value greater than one<br>
+Communication to Computation Ratio(CCR):Integer value greater than one<br>
+Number of processors: Integer value greater than zero<br>
+Heterogeneity Factor: Floating point value between 0.1 to 1
+</p>
+
+<h3><a name="lud">LU Decomposition: </a></h3>
+<p>
+Number of nodes:Integer value greater than zero<br>
+Average Computation Cost(ACC):Integer value greater than one<br>
+Communication to Computation Ratio(CCR):Integer value greater than one<br>
+Number of processors: Integer value greater than zero<br>
+Heterogeneity Factor: Floating point value between 0.1 to 1
+</p>
+<br>
+<br>
+<h3><a name="ot">
+Output Format:</a>
+</h3>
+<p>
+Two output files will be generated in the system path that you specified while entering the parameters.
+The values present in the first file represent:<br>
+Number of nodes<br>
+Number of edges<br>
+Node1 Node2 Communication cost between them
+
+<br>
+<br>
+The values present in the second file represent:<br>
+Number of processors<br>
+Computation cost of task1 in each of the processor<br>
+till<br>
+Computation cost of last task in each of the processor
+<br>
+<br>
+<h3><a name="nt">Network Topologies </a></h3>
+<p>
+<b>Star:</b><br>
+In local area networks with a star topology, each network host is connected to a central hub.<br>
+<b>Ring:</b><br>
+In local area networks where the ring topology is used, each computer is connected to the network in a closed loop or ring.<br>
+<b>Hybrid:</b><br>
+Hybrid networks use a combination of any two or more topologies in such a way that the resulting network does not exhibit one of the standard topologies (e.g., bus, star, ring, etc.)<br>
+</p>
+A visual simulation of the generated task graph and network graph can also be viewed for clear understanding.But,kindly note that,when the number of nodes and processors goes beyond a certain limit,the visualisation of the graph is not clear.
+
+
+</p>
+
+</body>
+</html>

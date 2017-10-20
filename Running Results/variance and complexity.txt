@@ -1,0 +1,130 @@
+comm_vol =
+5.1
+comm_vol=
+     0    24    25     0     0     0     0     0     0
+     0     0     0    21     0     0     0     0     0
+     0     0     0     8     0     0     0     0     0
+     0     0     0     0    31    25     0     0     0
+     0     0     0     0     0     0     0    18     0
+     0     0     0     0     0     0     0    24     0
+     0     0     0     0     0     0     0    19     0
+     0     0     0     0     0     0     0     0    22
+     0     0     0     0     0     0     0     0     0
+>> bnb_implementation_6
+program ends!
+############################################
+############################################
+Running Report
+nt=9  n=3
+Symmetry Check level=2
+Insertion_Strategy=Off
+Manual_Termination=Off
+Best Mapping=252  252    2    6    4    5    3    1    7    9    8
+nodes visited 2563
+nodes pruned 2043
+running time 2.0153 sec
+############################################
+>> var(comm_vol(1:end))
+
+ans =
+
+   55.6957
+
+>> comm_vol
+
+
+
+comm_vol =
+
+     0    24    25     0     0     0     0     0     0
+     0     0     0    21     0     0     0     0     0
+     0     0     0     8     0     0     0     0     0
+     0     0     0     0    39    20     0     0     0
+     0     0     0     0     0     0     0    16     0
+     0     0     0     0     0     0     0    24     0
+     0     0     0     0     0     0     0    15     0
+     0     0     0     0     0     0     0     0    25
+     0     0     0     0     0     0     0     0     0
+
+>> bnb_implementation_6
+program ends!
+############################################
+############################################
+Running Report
+nt=9  n=3
+Symmetry Check level=2
+Insertion_Strategy=Off
+Manual_Termination=Off
+Best Mapping=248  248    2    6    3    4    1    5    7    9    8
+nodes visited 2894
+nodes pruned 2249
+running time 2.3199 sec
+############################################
+
+
+
+
+
+5.2
+
+comm_vol =
+
+     0    30    19     X     0     0     0     0     0
+     0     0     0    21     0     0     0     0     0
+     0     0     0     8     0     0     0     0     0
+     0     0     0     0    42    17     0     0     0
+     0     X     0     0     0     0     0    16     0
+     0     0     0     0     0     0     0    24     0
+     0     0     X     0     0     0     0    15     0
+     0     0     0     0     0     0     0     0    25
+     0     0     0     0     0     0     0     0     0
+
+
+>> bnb_implementation_6
+program ends!
+############################################
+############################################
+Running Report
+nt=9  n=3
+Symmetry Check level=2
+Insertion_Strategy=Off
+Manual_Termination=Off
+Best Mapping=323  323    2    4    5    3    6    9    1    8    7
+nodes visited 2568
+nodes pruned 2001
+running time 1.9998 sec
+############################################
+>> var(comm_vol(1:end))
+
+ans =
+
+   66.6068
+
+>> bnb_implementation_6
+program ends!
+############################################
+############################################
+Running Report
+nt=9  n=3
+Symmetry Check level=2
+Insertion_Strategy=Off
+Manual_Termination=Off
+Best Mapping=298  298    2    4    5    3    6    1    9    8    7
+nodes visited 1727
+nodes pruned 1383
+running time 1.3386 sec
+############################################
+>> bnb_implementation_6
+program ends!
+############################################
+############################################
+Running Report
+nt=9  n=3
+Symmetry Check level=2
+Insertion_Strategy=Off
+Manual_Termination=Off
+Best Mapping=273  273    2    4    5    3    6    1    9    7    8
+nodes visited 1600
+nodes pruned 1276
+running time 1.2226 sec
+############################################

@@ -1,0 +1,147 @@
+comm_vol =[ 0    70     0     0     0     0     0     0     0     0     0     0     0     0     0     0;
+     0     0    20     9    65    10    15     0     0     0     0     0     0     0     0     0;
+     0     0     0     0     0     0    92     0     0     0     0     0     0     0     0     0;
+     0     0     0     0     0     0    36     0     0     0     0     0     0     0     0     0;
+     0     0     0     0     0     0     0    48     0     0     0     0     0     0     0     0;
+     0     0     0     0     0     0    23    11     0     0     0     0     0     0     0     0;
+     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0;
+     0     0     0     0     0     0     0     0    32    16    17     0     0     0     0     0;
+     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0;
+     0     0     0     0     0     0     0     0     0     0     0     8    30    66    12    81;
+     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0;
+     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0;
+     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0;
+     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0;
+     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0;
+     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0];
+
+
+
+
+
+
+
+>> bnb_implementation_6
+program ends!
+############################################
+############################################
+Running Report
+nt=10  n=4
+Symmetry Check level=2
+Insertion_Strategy=On
+Manual_Termination=Off  Threshold=2023.8577
+Best Mapping=480  480    2   11    8    6   10   12   15    4    7    5
+nodes visited 23242
+nodes pruned 21137
+running time 28.3917 sec
+############################################
+>> bnb_implementation_6
+manual termination
+program ends!
+############################################
+############################################
+Running Report
+nt=10  n=4
+Symmetry Check level=2
+Insertion_Strategy=On
+Manual_Termination=On  Threshold=2023.8577
+Best Mapping=480  480    2   11    8    6   10   12   15    4    7    5
+nodes visited 2567
+nodes pruned 2200
+running time 4.1765 sec
+############################################
+
+
+>> bnb_implementation_6
+manual termination
+program ends!
+############################################
+############################################
+Running Report
+nt=11  n=4
+Symmetry Check level=2
+Insertion_Strategy=On
+Manual_Termination=On  Threshold=2334.9039
+Best Mapping=531  531    1    7   11    5    6   15    8   12   10    9   13
+nodes visited 2420
+nodes pruned 1979
+running time 5.0442 sec
+############################################
+
+>> bnb_implementation_6
+program ends!
+############################################
+############################################
+Running Report
+nt=11  n=4
+Symmetry Check level=2
+Insertion_Strategy=On
+Manual_Termination=Off  Threshold=2334.9039
+Best Mapping=529  529    1    7   12   10    6    8    3   16   11   14    9
+nodes visited 49997
+nodes pruned 44823
+running time 84.658 sec
+############################################
+
+>> bnb_implementation_6
+manual termination
+program ends!
+############################################
+############################################
+Running Report
+nt=12  n=4
+Symmetry Check level=2
+Insertion_Strategy=On
+Manual_Termination=On  Threshold=2660.43
+Best Mapping=539  539    1    7   11    5    6   15    8   12   10    9   13    2
+nodes visited 2745
+nodes pruned 2270
+running time 6.4659 sec
+############################################
+
+
+>> bnb_implementation_6
+program ends!
+############################################
+############################################
+Running Report
+nt=12  n=4
+Symmetry Check level=2
+Insertion_Strategy=On
+Manual_Termination=Off  Threshold=12880.7815
+Best Mapping=529  529    2   10    5    7   11    9   14    1    6    3    8    4
+nodes visited 43761
+nodes pruned 39234
+running time 71.0947 sec
+############################################
+
+>> bnb_implementation_6
+manual termination
+program ends!
+############################################
+############################################
+Running Report
+nt=13  n=4
+Symmetry Check level=2
+Insertion_Strategy=On
+Manual_Termination=On  Threshold=1759.0925
+Best Mapping=571  571    2   11   15    6   10   16   12   14    7    5    3    9    1
+nodes visited 1848
+nodes pruned 1529
+running time 3.1528 sec
+############################################
+
+>> bnb_implementation_6
+program ends!
+############################################
+############################################
+Running Report
+nt=13  n=4
+Symmetry Check level=2
+Insertion_Strategy=On
+Manual_Termination=Off  Threshold=2999.8187
+Best Mapping=567  567    1    7   12   10    6    8    3   16   11   14    5    9    2
+nodes visited 43925
+nodes pruned 39490
+running time 72.5121 sec
+############################################

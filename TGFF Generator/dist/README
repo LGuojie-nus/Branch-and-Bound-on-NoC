@@ -1,0 +1,20 @@
+========================
+PREREQUISITES
+========================
+
+1.Java SDK 1.6 or above
+2.GNU/GCC 4.4.3 or above(Linux OS)
+3.DevC++ compiler(preferred)
+
+========================
+RUNNING THE PROJECT
+========================
+UNDER LINUX
+-open terminal
+-go to directory where you have saved the jar file
+-java -jar TaskGraphGenerator.jar
+
+UNDER WINDOWS
+
+from command prompt
+java -jar TaskGraphGenerator.jar

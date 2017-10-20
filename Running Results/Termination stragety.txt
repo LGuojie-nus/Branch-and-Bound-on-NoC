@@ -1,0 +1,111 @@
+comm_vol =[0    30    19     0     0     0     0     0     0     0     0     0     0     0     0     0;
+     0     0     0    21     0     0     0     0     0     0     0     0     0     0     0     0;
+     0     0     0    8     0     0     0     0     0     0     0     0     0     0     0     0;
+     0     0     0     0    42    17     0     0     0     0     0     0     0     0     0     0;
+     0     0     0     0     0     0     0    16     0     0     0     0     0     0     0     0;
+     0     0     0     0     0     0     0    24     0     0     0     0     0     0     0     0;
+     0     0     0     0     0     0     0    15     0     0     0     0     0     0     0     0;
+     0     0     0     0     0     0     0     0    25    14    26     0     0     0     0     0;
+     0     0     0     0     0     0     0     0     0     0     0    13     0     0     0     0;
+     0     0     0     0     0     0     0     0     0     0     0    27     0     0     0     0;
+     0     0     0     0     0     0     0     0     0     0     0    12     0     0     0     0;
+     0     0     0     0     0     0     0     0     0     0     0     0    28    11     0     0;
+     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0    19;
+     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0    11;
+     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0    30;
+     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0];
+
+############################################
+>> bnb_implementation_6
+manual termination
+program ends!
+############################################
+############################################
+Running Report
+nt=11  n=4
+Symmetry Check level=2
+Insertion_Strategy=Off
+Manual_Termination=On
+Best Mapping=286  286    6   11   10   15   16    7   14    5    2   12    9
+nodes visited 3529
+nodes pruned 3106
+running time 3.3061 sec
+############################################  
+
+
+>> bnb_implementation_6
+program ends!
+############################################
+############################################
+Running Report
+nt=11  n=4
+Symmetry Check level=2
+Insertion_Strategy=Off
+Manual_Termination=Off
+Best Mapping=286  286    6   11   10   15   16    7   14    5    2   12    9
+nodes visited 10080
+nodes pruned 9121
+running time 8.392 sec
+############################################
+
+>> bnb_implementation_6
+manual termination
+program ends!
+############################################
+############################################
+Running Report
+nt=12  n=4
+Symmetry Check level=2
+Insertion_Strategy=Off
+Manual_Termination=On
+Best Mapping=390  390    6    7    9   10   13   14    5   11    8    3   15    2
+nodes visited 3841
+nodes pruned 2973
+running time 4.3702 sec
+############################################
+
+############################################
+############################################
+Running Report
+nt=12  n=4
+Symmetry Check level=2
+Insertion_Strategy=Off
+Manual_Termination=Off
+Best Mapping=360  360    6    4   11   10   15   16    7    8    3    2   12    5
+nodes visited 320871
+nodes pruned 288094
+running time 285.9653 sec
+############################################
+
+
+
+
+>> bnb_implementation_6
+manual termination
+program ends!
+############################################
+############################################
+Running Report
+nt=13  n=4
+Symmetry Check level=2
+Insertion_Strategy=On
+Manual_Termination=On  Threshold=14876.9534
+Best Mapping=406  406    6    3    9    5   13   14    4   10    2    1    7   15   11
+nodes visited 18894
+nodes pruned 15419
+running time 46.4315 sec
+############################################
+>> bnb_implementation_6
+program ends!
+############################################
+############################################
+Running Report
+nt=13  n=4
+Symmetry Check level=2
+Insertion_Strategy=On
+Manual_Termination=Off  Threshold=14876.9534
+Best Mapping=403  403    2    9    7    3    8   12   13    6   10    5    1   11    4
+nodes visited 308189
+nodes pruned 265803
+running time 800.9429 sec
+############################################
